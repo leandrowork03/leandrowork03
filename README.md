@@ -4,7 +4,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/555199408903)
 
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrowork03&show_icons=true&theme=merko)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowork03&hide_progress=true)
 ### Tecnologias
 
