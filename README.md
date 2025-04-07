@@ -1,5 +1,7 @@
 ### Olá! eu sou Leandro Santos 👋🏼
 
+☕ Meu foco total é no Front-end
+
 🚀 Atualmente, estou aprimorando minhas habilidades em React com TypeScript.
 
 🎯 Meu foco é construir aplicações interativas e responsivas, sempre buscando as melhores práticas.
