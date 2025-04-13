@@ -6,7 +6,7 @@
 
 🎯 Meu foco é construir aplicações interativas e responsivas, sempre buscando as melhores práticas.
 
-Apenas começando, mas determinado a evoluir a cada linha de código.
+Determinado a evoluir a cada linha de código.
 
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-santos-front-end/)
