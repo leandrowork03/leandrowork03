@@ -1,29 +1,35 @@
-### Olá! eu sou Leandro Santos 👋🏼
+## 👋 Olá! Eu sou Leandro Santos
 
-☕ Meu foco total é no Front-end
+🎯 Desenvolvedor Front-End apaixonado por criar interfaces modernas, acessíveis e performáticas.
 
-🚀 Atualmente, estou aprimorando minhas habilidades em React com TypeScript.
+🚀 Atualmente, estou aprofundando meus conhecimentos em React e TypeScript, com foco em construir aplicações escaláveis e responsivas.
 
-🎯 Meu foco é construir aplicações interativas e responsivas, sempre buscando as melhores práticas.
+💡 Sempre em busca de novas tecnologias e boas práticas para entregar soluções de alta qualidade.
 
-Determinado a evoluir a cada linha de código.
+🔗 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
 
 
-[![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-santos-front-end/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/555199408903)
+### 📈 Estatísticas
+
+![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrowork03&show_icons=true&theme=radical)
 
 
-### 👨🏽‍💻 Tecnologias
-
-<img 
-width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img
- width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img 
-width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
             
           
