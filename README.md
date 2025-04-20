@@ -7,7 +7,7 @@
 💡 Sempre em busca de novas tecnologias e boas práticas para entregar soluções de alta qualidade.
 
 🔗 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)(https://www.linkedin.com/in/leandro-santos-front-end/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
 
 ---
