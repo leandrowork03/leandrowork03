@@ -3,14 +3,14 @@
 
 ### 📊 Estatísticas
 
-<div  gap: 10px; flex-wrap: wrap;">
+<div  gap: 10px; flex-wrap: nowrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=leandrowork03&show_icons=true&theme=tokyonight" 
-    style="width: 445px;"
+    style="width: 345px;"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowork03&layout=compact&theme=tokyonight" 
-    style="width: 400px;"
+    style="width: 300px;"
   />
 </div>
 
