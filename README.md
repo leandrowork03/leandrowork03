@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Leandro!</h1>
-  <p>Desenvolvedor Front-end apaixonado por código, carros e cinema 🎬🏎️</p>
+  <p>Desenvolvedor Front-end apaixonado por código, Rock e café ☕</p>
 </div>
 
 ---
@@ -52,9 +52,9 @@
 
 ### 📫 Contato
 
-- 📧 Email: **seuemail@gmail.com** *(coloca o real aqui)*
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com)
-- 🖥️ Portfólio: [seuportfólio.com](https://)
+- 📧 Email:(leandrotrabalho03@gmail.com)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/leandro-santos-front-end/)
+- 🖥️ Portfólio: [seuportfólio.com](https://devleandrop.netlify.app/)
 
 ---
 
