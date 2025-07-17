@@ -1,45 +1,5 @@
-<div align="center">
-  <h1>👋 Olá, eu sou o Leandro!</h1>
-  <p>Desenvolvedor Front-end apaixonado por código, Rock e café ☕</p>
-</div>
+### Olá eu sou o Leandro santos
 
----
-
-### 💼 Sobre mim
-
-- Dev focado em Front-end, com projetos reais usando React + Firebase/Supabase
-- Estudando Back-end com Node.js, Express e integração com banco de dados
-- Curioso por tecnologia, música e tudo que envolva criar soluções do zero
-
----
-
-### 🛠️ Habilidades
-
-#### 👨‍💻 Front-end
-- React, JavaScript, TypeScript, HTML, CSS, Tailwind, Vite, React Hook Form
-
-#### 🔐 Autenticação & Backend
-- Supabase, Firebase, Node.js (Express), JWT, LocalStorage, API REST
-
-#### 🧠 Boas práticas
-- Componentização, hooks, contexto global, animações com Framer Motion
-- LocalStorage, consumo de APIs externas, filtros, busca, CRUDs
-
-#### 🧰 Extras
-- Git, GitHub, Figma (noção de design), deploy com Vercel e Netlify
-
----
-
-### 📂 Projetos em destaque
-
-- 🔐 **Sistema de login com Supabase** — autenticação, upload de avatar e perfil editável  
-- 🎯 **Gerenciador de tarefas** — filtro dinâmico por status, categoria e busca  
-- 💸 **Sistema financeiro pessoal** — cadastro de receitas/despesas com persistência  
-- ⚽ **LeagueBoard (Brasileirão)** — busca por clubes, exibição de títulos e base de dados com JSON
-
-*Veja todos os projetos no repositório [aqui](https://github.com/leandrowork03?tab=repositories)*
-
----
 
 ### 📊 Estatísticas
 
