@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos os dias à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   generate:
@@ -16,10 +16,15 @@ jobs:
             dist/snake.svg
             dist/snake.gif
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Configurar usuário git
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Commit e push
+        run: |
+          git add dist/
+          git commit -m "Atualiza cobrinha"
+          git push origin HEAD:output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
