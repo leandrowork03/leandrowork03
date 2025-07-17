@@ -51,6 +51,6 @@
 - 🖥️ Portfólio: (https://devleandrop.netlify.app/)
 ###
 
-![snake animation](https://github.com/leandrowork03/leandrowork03/blob/output/snake.svg)
+
 
 
