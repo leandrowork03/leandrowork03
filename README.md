@@ -3,7 +3,7 @@
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=leandrowork03&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowork03&layout=compact&theme=tokyonight" />
 </div>
