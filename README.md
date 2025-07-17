@@ -54,7 +54,7 @@
 
 - 📧 Email:(leandrotrabalho03@gmail.com)*
 - 💼 LinkedIn: (https://www.linkedin.com/in/leandro-santos-front-end/)
-- 🖥️ Portfólio: [seuportfólio.com](https://devleandrop.netlify.app/)
+- 🖥️ Portfólio: (https://devleandrop.netlify.app/)
 
 ---
 
