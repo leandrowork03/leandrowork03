@@ -50,7 +50,8 @@
 - 💼 LinkedIn: (https://www.linkedin.com/in/leandro-santos-front-end/)
 - 🖥️ Portfólio: (https://devleandrop.netlify.app/)
 ###
-![Animação da Cobrinha](https://github.com/leandrowork03/leandrowork03/blob/output/snake.svg)
+![snake animation](https://github.com/leandrowork03/leandrowork03/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
