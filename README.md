@@ -1,8 +1,9 @@
-### Olá eu sou o Leandro santos
-
-
-### 📊 Estatísticas
-
+<table>
+  <tr>
+    <td><h1>Oi, eu sou Leandro Santos</h1></td>
+    <td><img src="https://media.tenor.com/rWx3fjRwcXIAAAAj/kid-goku.gif" width="150" alt="Goku gif" /></td>
+  </tr>
+</table>
 <div  gap: 10px; flex-wrap: nowrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=leandrowork03&show_icons=true&theme=tokyonight" 
@@ -14,7 +15,9 @@
   />
 </div>
 
----
+
+![snake animation dark](https://github.com/leandrowork03/leandrowork03/blob/output/github-contribution-grid-snake-dark.svg)
+###
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -37,10 +40,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
-
-  <p align="right">
-    <img src="https://media.tenor.com/rWx3fjRwcXIAAAAj/kid-goku.gif" width="150" alt="Goku gif" />
-  </p>
 </div>
 
 
@@ -50,7 +49,7 @@
 - 💼 LinkedIn: (https://www.linkedin.com/in/leandro-santos-front-end/)
 - 🖥️ Portfólio: (https://devleandrop.netlify.app/)
 ###
-![snake animation dark](https://github.com/leandrowork03/leandrowork03/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
