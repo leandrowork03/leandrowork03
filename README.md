@@ -10,7 +10,7 @@
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowork03&layout=compact&theme=tokyonight" 
-    style="width: 300px;"
+    style="width: 310px;"
   />
 </div>
 
