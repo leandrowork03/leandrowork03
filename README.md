@@ -1,5 +1,19 @@
 <h1>👋 Olá, eu sou o Leandro!</h1>
-<p>Desenvolvedor Front-End | Foco em React, Next.js e experiências incríveis na web</p>
+<table>
+  <tr>
+    <td>
+      <h3>🧠 Sobre mim</h3>
+      <p>
+        Desenvolvedor front-end com foco em React e Next.js, apaixonado por transformar ideias em interfaces vivas.<br>
+        Código limpo, animações modernas e integração com Supabase fazem parte do meu dia a dia.<br>
+        Faço mais que sites: entrego experiências com identidade.
+      </p>
+    </td>
+    <td>
+      <img src="https://giffiles.alphacoders.com/124/12442.gif" width="180" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <div>
 
