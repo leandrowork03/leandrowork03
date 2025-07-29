@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Leandro!</h1>
 <p align="center">Desenvolvedor Front-End | Foco em React, Next.js e experiências incríveis na web</p>
 
-<div align="center">
+<div >
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrowork03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
